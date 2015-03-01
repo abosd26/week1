@@ -1,4 +1,4 @@
-class week1
+class Week1
 {
 	public static void main(String[] args) 
 	{
